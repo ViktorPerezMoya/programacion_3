@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'PerpetuaRegular';
+    src: url('perpetua.eot');
+    src: url('perpetua.eot') format('embedded-opentype'),
+         url('perpetua.woff2') format('woff2'),
+         url('perpetua.woff') format('woff'),
+         url('perpetua.ttf') format('truetype'),
+         url('perpetua.svg#PerpetuaRegular') format('svg');
+}
+
+@font-face {
+    font-family: 'PerpetuaBold';
+    src: url('perpetuabold.eot');
+    src: url('perpetuabold.eot') format('embedded-opentype'),
+         url('perpetuabold.woff2') format('woff2'),
+         url('perpetuabold.woff') format('woff'),
+         url('perpetuabold.ttf') format('truetype'),
+         url('perpetuabold.svg#PerpetuaBold') format('svg');
+}
+
+
